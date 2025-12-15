@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 streamlit==1.28.0
 numpy==1.24.3
 pandas==2.0.3
 opencv-python-headless==4.8.1.78
 Pillow==10.1.0
 scikit-learn==1.3.0
+=======
+streamlit
+numpy
+pandas
+scikit-learn
+opencv-python
+Pillow
+>>>>>>> 5610b2ff9b7eef7d9814744ff1c2da3d566257ce
