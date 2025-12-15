@@ -1,0 +1,46 @@
+============================================================
+STATISTIQUES DU DATASET SEMI-SUPERVISÉ
+============================================================
+
+CONFIGURATION:
+Source: skintone
+Destination: skintone_data
+Ratio: 30% labellisé / 70% non-labellisé
+Images par classe (cible): 6844
+
+RÉSULTATS PAR CLASSE:
+------------------------------------------------------------
+
+DARK:
+  train: 1437 images
+  val: 307 images
+  test: 309 images
+  Total labellisé: 2053
+
+LIGHT:
+  train: 1437 images
+  val: 307 images
+  test: 309 images
+  Total labellisé: 2053
+
+MID-DARK:
+  train: 1437 images
+  val: 307 images
+  test: 309 images
+  Total labellisé: 2053
+
+MID-LIGHT:
+  train: 1437 images
+  val: 307 images
+  test: 309 images
+  Total labellisé: 2053
+
+============================================================
+TOTAUX GÉNÉRAUX:
+  Images labellisées: 8212
+  Images non-labellisées: 19164
+  TOTAL: 27376
+
+RATIOS FINAUX:
+  Labellisé: 30.0%
+  Non-labellisé: 70.0%
