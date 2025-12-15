@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
-*.pkl
-__pycache__/
+image/
+preprocessed_ml_data/
+skintone/
+skintone_data/
