@@ -1,0 +1,1 @@
+this app take picture as input and show the output as class skin color dark , mid-dark , mid-light , light  and match each type of skin with their matching colors shadesand suggest some cloth and makeup 
